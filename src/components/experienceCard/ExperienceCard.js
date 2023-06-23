@@ -64,7 +64,7 @@ class ExperienceCard extends Component {
     ))}
   </div>
 ) : (
-  <p>No descriptions available.</p>
+  <p>No descriptions available now.</p>
 )}
 
               </div>

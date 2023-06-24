@@ -275,46 +275,7 @@ const skills = {
           },
         },
       ],
-    },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
+    }
   ],
 };
 
@@ -377,7 +338,7 @@ const degrees = {
     {
       title: "Northeastern University,Boston MA",
       subtitle: "M.S. in Information Systems",
-      logo_path: "iu_logo.png",
+      logo_path: "northeastern.png",
       alt_name: "Northeastern University,Boston MA",
       duration: "2022 - Present",
       descriptions: [
@@ -391,7 +352,7 @@ const degrees = {
     {
       title: "K.J Somaiya Institute of Information Technology",
       subtitle: "BE in Information Technology",
-      logo_path: "iiitk_logo.png",
+      logo_path: "kj.jpeg",
       alt_name: "K.J Somaiya Institute of Information Technology",
       duration: "2014 - 2018",
       descriptions: [

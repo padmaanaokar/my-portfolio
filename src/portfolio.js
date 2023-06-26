@@ -494,7 +494,7 @@ const experience = {
           title: "Sports Official Intramurals League",
           company: "Northeastern University",
           company_url: "https://www.imleagues.com/spa/intramural/2d32e3c6360a4952be664270b800a89b/home",
-          logo_path: "legato_logo.png",
+          logo_path: "iml.png",
           duration: "Jan 2023 - Present",
           location: "Boston, Masachussets",
           descriptions:[
@@ -506,7 +506,7 @@ const experience = {
           title: "Senior Software Developer",
           company: "Accenture",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
+          logo_path: "accenture.png",
           duration: "Feb 2020 - July 2022",
           location: "Mumbai, Maharashtra",
           descriptions:["•	Implemented and deployed a monolithic app in Kubernetes with Splunk integration, which analyzed logs for data patterns, aided in compliance and managed security service thus saved up to 5–6 hours per week of manual effort",
@@ -520,7 +520,7 @@ const experience = {
           title: "Software Developer",
           company: "Accenture",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "accenture.png",
           duration: "Sep 2018 - Feb 2020",
           location: "Mumbai, Maharashtra",
           descriptions:[
@@ -539,7 +539,7 @@ const experience = {
           title: "Software Developer Intern",
           company: "Rashtriya Chemicals and Fertilizers",
           company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "rcf.png",
           duration: "Jun 2017 - Jul 2017",
           location: "Chembur, Maharashtra",
           descriptions:[
@@ -556,33 +556,33 @@ const experience = {
           title: "People Engagement Team",
           company: "Accenture",
           company_url: "https://about.google/",
-          logo_path: "google_logo.png",
+          logo_path: "accenture.png",
           duration: "Sept 2021 - Jun 2022",
           location: "Mumbai, Maharashtra",
           descriptions:[
-            "Played an integral role in Accenture's People Engagement Team during the COVID-19 pandemic, organizing and hosting a variety of engaging virtual events to boost employee morale and foster a sense of community.",
+            "•	Played an integral role in Accenture's People Engagement Team during the COVID-19 pandemic, organizing and hosting a variety of engaging virtual events to boost employee morale and foster a sense of community.",
           ],color: "#4285F4",
         },
         {
           title: "Enter into the world of Engineering Education",
-          company: "University of Mumbai",
+          company: "IET Committee",
           company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",//IETS logo
+          logo_path: "iet.png",//IETS logo
           duration: "20th Aug 2017",
           location: "Mumbai, Maharashtra",
           descriptions:[
-            "Presented informative seminars titled Enter into the World of Engineering Education at various Junior and Diploma colleges in Mumbai, Thane, and Raigad District. These engaging sessions provided valuable insights into the field of engineering education, discussing diverse disciplines, career opportunities, and the significance of STEM education."],    
+            "•	Presented informative seminars titled Enter into the World of Engineering Education at various Junior and Diploma colleges in Mumbai, Thane, and Raigad District. These engaging sessions provided valuable insights into the field of engineering education, discussing diverse disciplines, career opportunities, and the significance of STEM education."],    
           color: "#D83B01",
         },
         {
           title: "Nation Level Project competition:KJSIEIT-INTECH 2K17",
           company: "K.J Somaiya Institute Of Engineering and IT",
           company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
+          logo_path: "kj.jpeg",
           duration: "15th Mar 2017",
           location: "Mumbai, Maharashtra",
           descriptions:[
-            "Volunteered and organized a variety of events, including the prestigious National level Project Competition, these experiences allowed me to contribute to the planning, coordination, and execution of successful events, fostering a vibrant atmosphere and celebrating innovation."
+            "•	Volunteered and organized a variety of events, including the prestigious National level Project Competition, these experiences allowed me to contribute to the planning, coordination, and execution of successful events, fostering a vibrant atmosphere and celebrating innovation."
            ], color: "#000000",
         },
         // {
